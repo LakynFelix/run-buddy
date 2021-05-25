@@ -125,6 +125,7 @@ section {
   text-align: center;
 }
 
+
 .intro p {
   line-height: 1.7;
   color: #39a6b2;
@@ -249,6 +250,7 @@ section {
   width: 400px;
   height: 400px;
 }
+
 .contact-info div {
   width: 410px;
   display: inline-block;
@@ -257,7 +259,7 @@ section {
   margin: 30px 0 0 60px;
   color: white;
 }
-contact-info h3 {
+.contact-info h3 {
   color: #fce138;
   font-size: 32px;
 }
